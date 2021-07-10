@@ -4,5 +4,7 @@ This repository is the code for entry to ICCV 2021 Workshop: MIA-COV19D, https:/
 
 ## Getting Started
 
+Clone this repository using 
 
+*** git clone https://github.com/nayeemmz/TeliNet.git ***
  
