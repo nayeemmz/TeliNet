@@ -12,16 +12,18 @@ Clone this repository using
 git clone https://github.com/nayeemmz/TeliNet.git 
 ```
  
+$ ./tree-md .
+# Project tree
 
-|-- Data
-|   |-- Entries
-|   |-- Repository
-|   `-- Root
-|-- Makefile
-|-- foo
-|   `-- bar
-|-- tree.1
-`-- tree.c
-
-2 directories, 7 files
-
+.
+ * [tree-md](./tree-md)
+ * [dir2](./dir2)
+   * [file21.ext](./dir2/file21.ext)
+   * [file22.ext](./dir2/file22.ext)
+   * [file23.ext](./dir2/file23.ext)
+ * [dir1](./dir1)
+   * [file11.ext](./dir1/file11.ext)
+   * [file12.ext](./dir1/file12.ext)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [dir3](./dir3)
