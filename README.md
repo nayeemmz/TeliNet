@@ -8,5 +8,5 @@ This code classifies CT Scan COVID-19 images as covid and non-covid using a four
 
 Clone this repository using 
 
-> git clone https://***github***.com/nayeemmz/TeliNet.git 
+``` git clone https://***github***.com/nayeemmz/TeliNet.git '''
  
