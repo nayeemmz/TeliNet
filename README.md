@@ -17,8 +17,10 @@ The data directories structure should be
  
  * ``` 
     train
-     |-- covid
-     |-- non-covid
+     |
+      -- covid
+     |
+      -- non-covid
  
    ```
  * ```
