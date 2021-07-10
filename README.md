@@ -17,24 +17,24 @@ The data directories structure should be
  
  * ``` 
     train
-      |
-       - covid
-           | 
-           - images
-      |
-       - non-covid
+    |-- covid
+        |-- images
+         
+    |-- non-covid
+        |-- images
  
    ```
  * ```
    validation
-      |
-       - covid
-      |
-       - non-covid
+   |-- covid
+        |-- images
+         
+    |-- non-covid
+        |-- images
    ```
  * ```
    train
-      |
-       - to_be_predicted
+   |-- to_be_predicted
+       |-- images
  ```
   
