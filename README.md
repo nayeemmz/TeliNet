@@ -18,7 +18,7 @@ The data directories structure should be
  
  * [train](./train)
    * [covid](./train/covid)
-   * * .jpg images
+   *  [covid images](./train/covid/*.jpg)
    * [non-covid](./train/non-covid)
  * [dir1](./dir1)
    * [file11.ext](./dir1/file11.ext)
