@@ -13,7 +13,7 @@ git clone https://github.com/nayeemmz/TeliNet.git
 ```
  
 $ ./tree-md .
-# Project tree
+The data directories structure should be 
 
 .
  * [tree-md](./tree-md)
