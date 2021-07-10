@@ -20,10 +20,15 @@ The data directories structure should be
  
    * covid
    * non-covid```
- * ```validation
+ * ```
+   validation
+   
    * covid
-   * non-covid```
- * ```test
+   * non-covid
+   ```
+ * ```
+   test
+   
    * to_be_predicted 
  ```
   
