@@ -11,8 +11,7 @@ Clone this repository using
 ``` 
 git clone https://github.com/nayeemmz/TeliNet.git 
 ```
- 
-$ ./tree-md .
+
 The data directories structure should be 
 
  
