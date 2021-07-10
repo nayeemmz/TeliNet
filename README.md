@@ -19,7 +19,8 @@ The data directories structure should be
     train
  
    * covid
-   * non-covid```
+   * non-covid
+   ```
  * ```
    validation
    
