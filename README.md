@@ -18,11 +18,10 @@ The data directories structure should be
  
  * [train](./train)
    * [covid](./train/covid)
-   **  [covid images](./train/covid/*.jpg)
    * [non-covid](./train/non-covid)
- * [dir1](./dir1)
-   * [file11.ext](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
- * [file_in_root.ext](./file_in_root.ext)
- * [README.md](./README.md)
- * [dir3](./dir3)
+ * [validation](./validation)
+   * [covid](./validation/covid)
+   * [non-covid](./validation/non-covid)
+ * [test](./test)
+   * [to_be_predicted](./test/to_be_predicted)
+  
