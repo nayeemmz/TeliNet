@@ -15,11 +15,10 @@ git clone https://github.com/nayeemmz/TeliNet.git
 $ ./tree-md .
 The data directories structure should be 
 
-.
  
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
-   * [file22.ext](./dir2/file22.ext)
+ * [train](./train)
+   * [covid](./train/covid)
+   * [non-covid](./train/non-covid)
    * [file23.ext](./dir2/file23.ext)
  * [dir1](./dir1)
    * [file11.ext](./dir1/file11.ext)
