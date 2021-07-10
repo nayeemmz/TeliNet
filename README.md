@@ -25,13 +25,14 @@ The data directories structure should be
    ```
  * ```
    validation
-   
-   * covid
-   * non-covid
+      |
+       - covid
+      |
+       - non-covid
    ```
  * ```
-   test
-   
-   * to_be_predicted 
+   train
+      |
+       - to_be_predicted
  ```
   
