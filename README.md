@@ -16,7 +16,9 @@ $ ./tree-md .
 The data directories structure should be 
 
  
- * [train](./train)
+ * ``` 
+ [train](./train)
+ ```
    * [covid](./train/covid)
    * [non-covid](./train/non-covid)
  * [validation](./validation)
