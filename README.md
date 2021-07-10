@@ -13,9 +13,7 @@ git clone https://github.com/nayeemmz/TeliNet.git
 ```
  
 
-(pyr@phoenix) tree$ tree
-.
-|-- CVS
+|-- Data
 |   |-- Entries
 |   |-- Repository
 |   `-- Root
