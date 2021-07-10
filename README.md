@@ -17,13 +17,15 @@ The data directories structure should be
 
  
  * ``` 
-    [train](./train)
- ```
-   * [covid](./train/covid)
+    train
+ 
+   * covid
    * [non-covid](./train/non-covid)
  * [validation](./validation)
    * [covid](./validation/covid)
    * [non-covid](./validation/non-covid)
  * [test](./test)
    * [to_be_predicted](./test/to_be_predicted)
+ 
+ ```
   
