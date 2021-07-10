@@ -20,12 +20,12 @@ The data directories structure should be
     train
  
    * covid
-   * [non-covid](./train/non-covid)
- * [validation](./validation)
-   * [covid](./validation/covid)
-   * [non-covid](./validation/non-covid)
- * [test](./test)
-   * [to_be_predicted](./test/to_be_predicted)
+   * non-covid
+ * validation
+   * covid
+   * non-covid
+ * test
+   * to_be_predicted
  
  ```
   
