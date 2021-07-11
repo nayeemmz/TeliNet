@@ -50,4 +50,5 @@ The data directories structure should be
 
 ## Contact
 
-Contact nayeem@umd.edu to ask questions or report issues, please open an issue on the issues tracker. Discussions, suggestions and questions are welcome!
+Contact ``` 
+nayeem@umd.edu ```to ask questions or report issues, please open an issue on the issues tracker. Discussions, suggestions and questions are welcome!
