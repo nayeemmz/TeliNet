@@ -47,3 +47,7 @@ The data directories structure should be
 * tensorflow==2.5.0rc2
 * numpy==1.19.5
 * tensorflow_addons==0.13.0
+
+## Contact
+
+Contact nayeem@umd.edu to ask questions or report issues, please open an issue on the issues tracker. Discussions, suggestions and questions are welcome!
