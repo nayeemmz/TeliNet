@@ -6,7 +6,7 @@ This code classifies CT Scan COVID-19 images as covid and non-covid using a four
 
 ## What's included
 
-In the repo there are three Jupyter notebooks in the Notebooks folder
+In the repo there are four Jupyter notebooks in the Notebooks folder
 
 ```
 * preprocessing.ipynb 
@@ -16,9 +16,16 @@ This file provides the code for processing the files in the directory structure 
 ```
 * teliNet.ipynb
 ```
-This is the main file that contains the code for the CNN architecture that we propose in this research. It contains the code for training, validations as well as testing.
+This is the main file that contains the code for the CNN architecture that we propose in this research. It contains the code for training, and testing on the validation data set.
 
 ```
+
+* teliNet-test-Code.ipynb
+```
+This file contains the code for testing data set. We have divided the code to report results on each subset of the test data set separately.
+
+```
+
 * covid_ct_classification-VGG16.ipynb
 ```
 This file contains only the code for training and validation datasets using VGGNet-16 architecture. Since its performance is not better than teliNet architecture, we do not run it on the test set.
