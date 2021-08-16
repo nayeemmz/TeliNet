@@ -1,8 +1,11 @@
 # ICCV-2021-Workshop-MIA-COV19D-TeliNet
 
-This repository is the code for entry to ICCV 2021 Workshop: MIA-COV19D, https://mlearn.lincoln.ac.uk/mia-cov19d/.
+This repository is the code for ICCV 2021 Workshop: MIA-COV19D, https://mlearn.lincoln.ac.uk/mia-cov19d/, accepted to appear in ICCVW: AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (MIA-COV19D), International Conference on Computer Vision (ICCV) 2021, Montreal, Canada, October 11- 17, 2021.
 
 This code classifies CT Scan COVID-19 images as covid and non-covid using a four layer Convolutional Neural Network.
+
+## Paper Abstract
+COVID-19 has led to hundreds of millions of cases andmillions  of  deaths  worldwide  since  its  onset.    The  fightagainst this pandemic is on-going on multiple fronts. Whilevaccinations  are  picking  up  speed,  there  are  still  billionsof unvaccinated people.  In this fight against the virus, di-agnosis of the disease and isolation of the patients to pre-vent any spread play a huge role.   Machine Learning ap-proaches have assisted in the diagnosis of COVID-19 casesby analyzing chest X-rays and CT-scan images of patients.To push algorithm development and research in this direc-tion of radiological diagnosis, a challenge to classify CT-scan series was organized in conjunction with ICCV, 2021.In  this  research  we  present  a  simple  and  shallow  Convo-lutional Neural Network based approach, TeliNet, to clas-sify these CT-scan images of COVID-19 patients presentedas part of this competition.  Our results outperform the F1‘macro’ score of the competition benchmark and VGGNetapproaches. Our proposed solution is also more lightweightin comparison to the other methods.
 
 ## What's included
 
