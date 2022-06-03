@@ -1,6 +1,6 @@
 # ICCV-2021-Workshop-MIA-COV19D-TeliNet
 
-This repository is the code for ICCV 2021 Workshop: MIA-COV19D, https://mlearn.lincoln.ac.uk/mia-cov19d/, accepted to appear in ICCVW: AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (MIA-COV19D), International Conference on Computer Vision (ICCV) 2021, Montreal, Canada, October 11- 17, 2021.
+This repository is the code for ICCV 2021 Workshop: MIA-COV19D, https://mlearn.lincoln.ac.uk/mia-cov19d/, in ICCVW: AI-enabled Medical Image Analysis Workshop and Covid-19 Diagnosis Competition (MIA-COV19D), International Conference on Computer Vision (ICCV) 2021, Montreal, Canada, October 11- 17, 2021.
 
 This code classifies CT Scan COVID-19 images as covid and non-covid using a four layer Convolutional Neural Network.
 
