@@ -89,7 +89,8 @@ If you use this code, please consider citing the following paper
 @InProceedings{Teli_2021_ICCV,
     author    = {Teli, Mohammad Nayeem},
     title     = {TeliNet: Classifying CT Scan Images for COVID-19 Diagnosis},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 
+                Workshops},
     month     = {October},
     year      = {2021},
     pages     = {496-502}
