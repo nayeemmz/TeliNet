@@ -65,7 +65,7 @@ The data directories structure should be
         |-- images
    ```
  * ```
-   train
+   test
    |-- to_be_predicted
        |-- images
  ```
