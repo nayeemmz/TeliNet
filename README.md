@@ -85,7 +85,8 @@ Contact ```
 nayeem@umd.edu ```to ask questions or report issues, please open an issue on the issues tracker. Discussions, suggestions and questions are welcome!
 
 If you use this code, please consider citing the following paper
-```\@InProceedings{Teli_2021_ICCV,
+```
+@InProceedings{Teli_2021_ICCV,
     author    = {Teli, Mohammad Nayeem},
     title     = {TeliNet: Classifying CT Scan Images for COVID-19 Diagnosis},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
